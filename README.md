@@ -1,2 +1,2 @@
 # [linran913.github.io](https://linran913.github.io)
-Lin Ran's blog
+林染's blog

@@ -4,3 +4,8 @@
 
 layout: home
 ---
+
+
+#### **Forgetting makes all efforts wasted, so take good notes and review them often.**
+
+---
