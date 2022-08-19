@@ -30,6 +30,7 @@ github_username:  linran913
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 permalink: /:year/:month/:title:output_ext
 
