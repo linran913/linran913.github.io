@@ -15,7 +15,7 @@ This blog includes (but not limited in):
 
 ### About Me
 
-林染(Ran Lin) isn't my real name, but I do love using it everywhere instead of my real name.
+林染(**Lin** Ran) isn't my real name, but I do love using it everywhere instead of my real name.
 
 {% comment %}
 TODO
